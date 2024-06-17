@@ -1,4 +1,4 @@
-# Tarea de Programación - Módulo Nº1
+# TP Nº2 
 
 ## Descripción
 Este repositorio contiene los ejercicios resueltos del Módulo Nº1 del curso de Programación Web Full-Stack Nivel 2. Todos los ejercicios han sido realizados y verificados como parte de la entrega del Trabajo Práctico Nº2 (TP Nº2).
